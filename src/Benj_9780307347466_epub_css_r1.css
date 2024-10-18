@@ -1,0 +1,1509 @@
+.tp {  
+margin-top: 1em;
+text-align: center;
+}
+
+/* ==================== RH Styles ===================== */
+
+h1.otherbooks
+{
+text-align: left;
+font-size: 90%;
+margin-bottom: 2em;
+margin-top: 3em;
+font-weight: normal;
+}
+
+div.otherbooks
+{
+margin-top: 15em;
+font-size: small;
+margin-left: 2em;
+margin-right: 2em;
+}
+
+div.copyright
+{
+font-size: small;
+text-align: center;
+margin-top: 4em;
+}
+
+div.dedication
+{
+font-size: small;
+margin-top: 8em;
+margin-left: 4em;
+}
+
+div.epigraph
+{
+font-size: medium;
+margin-left: 12em;
+margin-right: 4em;
+margin-bottom: 2em;
+margin-top: 2em;
+}
+
+div.epigraphsource
+{
+font-size: x-small;
+text-align: right;
+font-style: italic;
+margin-bottom: 12em;
+margin-right: 2em;
+}
+
+h1.acknowledgments
+{
+font-size: medium;
+margin-top: 4em;
+text-align: center;
+font-weight: bold;
+}
+
+div.acknowledgments
+{
+font-size: small;
+text-align: justify;
+margin-left: 2em;
+margin-right: 2em;
+}
+
+h1.authorsnote
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.authorsnote
+{
+font-size: small;
+text-align: justify;
+}
+
+h1.listoffigures
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.listoffigures
+{
+font-size: small;
+text-align: left;
+}
+
+h1.chronology
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.geneology
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.foreword
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.preface
+{
+font-size: 1.2em;
+text-align: left;
+font-weight: bold;
+margin-bottom:0em;
+margin-top:2.0em;
+}
+
+h1.introduction
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.prologue
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.part
+{
+line-height: 2em;
+margin-top: 4em;
+margin-bottom: 1em;
+font-size: large;
+text-align: center;
+font-weight: bold;
+}
+p.footnote0
+{
+	text-align: justify;
+	margin-left: 0em;
+}
+
+h1.itr
+{
+font-size: large;
+text-align: left;
+font-weight: bold;
+line-height: 1.3em;
+margin-top: 2em;
+margin-bottom: 3.5em;
+}
+
+h1.chapter
+{
+font-size: medium;
+text-align: left;
+font-weight: bold;
+line-height: 1.3em;
+margin-top: 2em;
+margin-bottom: 1em;
+}
+
+
+
+h1.ack
+{
+font-size: large;
+text-align: left;
+font-weight: bold;
+line-height: 1.3em;
+margin-top: 3em;
+margin-bottom: 4em;
+}
+
+h1.chapter2
+{
+font-size: large;
+text-align: center;
+font-weight: bold;
+line-height: 1.2em;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+h1.chapter3
+{
+font-size: large;
+text-align: center;
+font-weight: bold;
+line-height: 1.2em;
+margin-top: 0em;
+margin-bottom: 3em;
+}
+
+h1.subchapter
+{
+font-size: large;
+text-align: left;
+margin-top:0em;
+font-weight: bold;
+margin-left:2.0em;
+margin-bottom:4.5em;
+line-height:1.3em;
+}
+
+h1.subchapterpre
+{
+font-size: small;
+text-align: left;
+margin-top:0em;
+margin-bottom:4.0em;
+font-weight: bold;
+}
+
+h1.epilogue
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.coda
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.conclusion
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.afterward
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.permission
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.glossary
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+span.glosaryterm
+{
+font-size: small;
+text-align: left;
+margin-right: 1em;
+}
+span.px
+{
+border-top: 3px solid;
+}
+span.px1
+{
+border-top: 3px solid;
+}
+
+span.glosarydef
+{
+font-size: small;
+text-align: left;
+margin-right: 1em;
+}
+
+h1.appendix
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.resource
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.notes
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.note
+{
+font-size: x-small;
+text-align: justify;
+margin-left: 1em;
+}
+
+h1.source
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.bibliography
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+div.bibliography
+{
+font-size: x-small;
+text-align: justify;
+margin-left: 2em;
+font-weight: bold;
+}
+
+h1.suggestedreading
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h1.abouttheauthor
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+p.smallheight
+{
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+p.mediumheight
+{
+margin-top: 2em;
+margin-bottom: 2em;
+}
+
+p.attribution
+{
+text-align: center;
+}
+
+
+p.largeheight
+{
+margin-top: 3em;
+margin-bottom: 3em;
+}
+
+div.list
+{
+font-size: small;
+margin-left: 1em;
+}
+
+
+h1.box
+{
+font-size: medium;
+font-style: italic;
+text-align: center;
+}
+
+div.box
+{
+font-size: small;
+margin-left: 1em;
+}
+
+p.caption
+{
+font-size: x-small;
+font-style: italic;
+text-align: center;
+margin-bottom: 1em;
+}
+
+
+/* ===================== Added Styles ===================== */
+
+p.indent
+{
+text-indent: 1.00em;
+margin-top: 0.0em;
+margin-bottom: 0.0em;
+text-align: justify;
+}
+
+
+p.indentt
+{
+text-indent: 1.00em;
+margin-top: 1.0em;
+margin-left:6.0em;
+margin-bottom: 1.0em;
+text-align: justify;
+}
+
+p.nonindentt
+{
+margin-left: 5.00em;
+margin-top: 1.0em;
+margin-bottom: 1.0em;
+text-align: justify;
+}
+
+
+p.nonindentt1
+{
+margin-left: 9.00em;
+margin-top: 1.0em;
+margin-bottom: 1.0em;
+text-align: justify;
+}
+
+p.right
+{
+margin-right: 0em;
+text-align: right;
+}
+p.right60
+{
+margin-left: 60%;
+text-align: left;
+}
+
+p.centerb
+{
+margin-left: 1px;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1em;
+border-top:1px solid;
+border-bottom:1px solid;
+padding:0.5%;
+}
+p.center
+{
+margin-left: 1px;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1em;
+}
+
+
+
+
+p.center
+{
+margin-left: 1px;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1em;
+}
+p.nonindentb
+{
+border-top:1px solid;
+border-bottom:1px solid;
+padding:0.5%;
+text-align:left;
+}
+
+p.nonindentbz
+{
+border-top:1px solid;
+border-bottom:1px solid;
+padding:0.5%;
+text-align:center;
+margin-top:1.0em;
+margin-bottom:0.5em;
+}
+
+div.dis_img1
+{
+margin-left: 1px;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1.5em;
+}
+
+div.dis_img
+{
+margin-left: 1px;
+margin-top: 1em;
+text-align: center;
+margin-bottom: 1.5em;
+}
+
+
+
+p.centertoc
+{
+margin-top: 0em;
+text-align: center;
+margin-bottom: 0em;
+}
+
+a.hlink
+{
+text-decoration: none;
+}
+
+p.figure
+{
+margin-top: 0em;
+text-align: center;
+margin-bottom: 2em;
+font-size: small;
+}
+
+h1.subtitle
+{
+font-size: x-large;
+text-align: center;
+font-weight: bold;
+margin-bottom: 4em;
+}
+
+
+h1.contents
+{
+font-size: medium;
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+
+h2.title
+{
+font-size: medium;
+text-align: center;
+}
+
+p.smallheight
+{
+margin-top: 1em;
+}
+
+p.mediumheight
+{
+margin-top: 2em;
+}
+
+p
+{
+margin-top: .3em;
+margin-bottom: .3em;
+}
+
+div.cover
+{
+text-align: center;
+}
+
+div.titlepage
+{
+text-align: center;
+}
+
+a.pubhlink
+{
+text-decoration: none;
+color: green;
+}
+
+p.extract
+{
+text-align: justify;
+margin-top: 1em;
+text-indent: 0;
+margin-bottom:0em;
+}
+
+
+p.extract1
+{
+text-align: justify;
+margin-top: 1em;
+text-indent: 1em;
+}
+
+
+div.textbox
+{
+margin-top: 2em;
+margin-left: 2em;
+margin-right: 2em;
+margin-bottom: 2em;
+border: 2px solid;
+line-height: 1.4em;
+text-align: center;
+background-color:#E5E5E5;
+}
+div.textbox1
+{
+margin-top: 2em;
+margin-left: 2em;
+margin-right: 2em;
+margin-bottom: 2em;
+border-top: 2px solid;
+line-height: 1.7em;
+text-align: center;
+}
+div.textbox2
+{
+margin-top: 2em;
+margin-left: 2em;
+margin-right: 2em;
+margin-bottom: 2em;
+border-bottom: 2px solid;
+line-height: 1.7em;
+text-align: center;
+}
+
+div.textboxadfc
+{
+margin-top: 2em;
+margin-bottom: 2em;
+border-bottom: 2px solid;
+border-left: 2px solid;
+border-right: 2px solid;
+border-top: 2px solid;
+line-height: 1.7em;
+text-align: center;
+}
+
+
+h1.caption
+{
+font-size: medium;
+margin-bottom: 1em;
+}
+
+p.box
+{
+border-bottom: 1px double;
+border-left: 1px double;
+border-top: 1px double;
+border-right: 1px double;
+text-align: justify;
+}
+
+div.abstract
+{
+font-size: small;
+text-align: justify;
+margin-left: 2em;
+margin-right: 2em;
+}
+
+div.appendix
+{
+font-size: small;
+text-align: justify;
+}
+
+p.reference
+{
+text-align: justify;
+text-indent: -1.00em;
+margin-left: 1em;
+}
+
+div.biboliography
+{
+font-size: medium;
+text-align: justify;
+}
+
+div.preface
+{
+font-size: small;
+text-align: justify;
+margin-left: 2em;
+margin-top: 20em;
+margin-right: 2em;
+}
+
+p.cop
+{
+margin-bottom: 1em;
+}
+
+p.nonindent
+{
+margin-top: 0.0em;
+margin-bottom: 0.0em;
+text-align: justify;
+text-indent: 0;
+}
+
+
+
+p.nonindenttoc
+{
+margin-top: 0.0em;
+margin-left:5.7em;
+margin-bottom: 0.0em;
+text-align: justify;
+text-indent: 0;
+}
+
+p.nonindenttoc12
+{
+margin-top: 0.0em;
+margin-left:5.7em;
+margin-bottom: 0.0em;
+font-style: normal;
+text-align: justify;
+text-indent: 0;
+}
+
+p.right2
+{
+margin-bottom: 1em;
+text-align: right;
+}
+p.nonindent1
+{
+margin-top: 3em;
+margin-bottom: 0.0em;
+text-align: justify;
+text-indent: 0;
+}
+div.footnote0
+{
+		font-size:	small;
+		margin-top: 2em;
+}
+p.nonindent0
+{
+margin-top: 0.0em;
+margin-bottom: 0.0em;
+text-align: justify;
+line-height: 2em;
+text-indent: 0;
+}
+p.indent0
+{
+text-indent: 1.00em;
+margin-top: 0.0em;
+margin-bottom: 0.0em;
+line-height: 2em;
+text-align: justify;
+}
+p.bl_hanging
+{
+text-indent: -1.2em;
+margin-left: 2em;
+line-height: 1.3em;
+text-align:justify;
+}
+
+
+p.bl_hangings
+{
+text-indent: -2em;
+margin-left: 2.3em;
+line-height: 1.3em;
+text-align:left;
+}
+
+
+p.bl_hanginga
+{
+text-indent: -4.5em;
+margin-left: 4.5em;
+line-height: 1.3em;
+text-align:justify;
+}
+
+p.extract0
+{
+text-indent: 0;
+text-align: justify;
+margin-top: 2em;
+line-height: 2em;
+margin-bottom: 0.0em;
+}
+p.hanging0
+{
+text-indent: -1.5em;
+line-height: 2em;
+margin-left: 2em;
+}
+span.small
+{
+font-size: x-small;
+}
+span.small1
+{
+font-size: small;
+}
+
+div.toc
+{
+font-size: medium;
+text-align: left;
+}
+
+p.stanga
+{
+text-align: justify;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 2em;
+}
+
+body
+{
+font-size: medium;
+line-height: 1.2em;
+margin-top: 1em;
+margin-left: 1em;
+margin-right: 2em;
+font-family: Charis;
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: normal;
+font-weight: normal;
+src:url(fonts/CharisSILR.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: normal;
+font-weight: bold;
+src:url(fonts/CharisSILB.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: italic;
+font-weight: normal;
+src:url(fonts/CharisSILI.ttf);
+}
+
+@font-face
+{
+font-family: "Charis";
+font-style: italic;
+font-weight: bold;
+src:url(fonts/CharisSILBI.ttf);
+}
+
+h3.title
+{
+font-size: medium;
+text-align: center;
+margin-bottom: 3em;
+}
+
+
+span.dropcaps
+{
+float: left;
+font-size: 60px;
+line-height: 55px;
+color:#4D4D4D;
+padding-top: 1px;
+margin-top: -.09em;
+margin-right: .09em;
+}
+
+span.dropcaps3lines
+{
+float: left;
+font-size: 80px;
+line-height: 70px;
+padding-top: 1px;
+margin-top: -.09em;
+margin-right: .09em;
+}
+
+sup.small
+{
+		font-size:	small;
+		line-height:	0.0em;
+}
+
+div.footnote
+{
+		font-size:	small;
+		border-style: solid;
+		border-width: 1px 0 0 0;
+		margin-top: 2em;
+}
+
+p.footnote
+{
+	text-align: justify;
+	margin-left: 0em;
+	margin-top: 1em;
+}
+
+p.question
+{
+text-align: justify;
+margin-top: 1em;
+}
+
+div.small-page
+{
+margin-top: 2em;
+font-size: medium;
+margin-left: 12em;
+margin-right: 6em;
+}
+
+h1.toc
+{
+line-height:1.3em;
+text-align: left;
+margin-left:1.5em;
+font-size: large;
+margin-top: 2em;
+margin-bottom: 3.5em;
+}
+
+
+ol.upperalpha
+{
+	text-align: justify;
+	list-style-type: upper-alpha;
+}
+
+ol.upperroman
+{
+	text-align: justify;
+	list-style-type: upper-roman;
+}
+
+ol.lowerroman
+{
+	text-align: justify;
+	list-style-type: lower-roman;
+}
+
+ol.loweralpha
+{
+	text-align: justify;
+	list-style-type: lower-alpha;
+}
+
+
+ol.arabic
+{
+	text-align: justify;
+}
+ul.bullet
+{
+	list-style-type: disc;
+}
+
+ul.none
+{
+	text-align: justify;
+	list-style-type: none;
+}
+
+p.hanging
+{
+text-indent: -1em;
+margin-top: 0.0em;
+margin-left:0.2em;
+margin-bottom:0em;
+}
+
+h1.section
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 1em;
+margin-top: 4em;
+}
+
+h2.section
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 0.5em;
+margin-top: 1.5em;
+}
+h2.section1
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 1em;
+margin-left: 2em;
+margin-top: 2em;
+}
+
+h3.section
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 0.7em;
+margin-top: 1em;
+}
+
+
+
+h4.section
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 1em;
+margin-top: 4em;
+}
+
+h5.section
+{
+text-align: left;
+font-size: medium;
+margin-bottom: 1em;
+margin-top: 4em;
+}
+
+span.underline
+{
+text-decoration: underline;
+}
+
+span.big
+{
+font-size: large;
+font-weight:bold;
+}
+
+p.crt
+{
+margin-top: 1em;
+text-align: left;
+margin-bottom: 1em;
+}
+div.crt
+{
+margin-left: 2em;
+margin-top: 0em;
+text-align: left;
+margin-bottom: 0em;
+}
+
+span.overline
+{
+text-decoration: overline;
+}
+
+p.textbox
+{
+line-height:1.3em;
+text-indent: 0;
+text-align: justify;
+margin-left: 1em;
+margin-right: 1em;
+margin-top:0em;
+margin-bottom:0em;
+}
+
+p.textboxh
+{
+line-height:1.3em;
+text-indent: 0;
+font-weight:bold;
+text-align: justify;
+margin-left: 1em;
+margin-right: 1em;
+margin-top:0em;
+margin-bottom:0.3em;
+}
+
+p.textbox2
+{
+line-height:1.3em;
+text-indent: 0;
+text-align: justify;
+margin-top: 1em;
+margin-left: 1em;
+margin-right: 1em;
+}
+p.textbox1
+{
+line-height:1.3em;
+text-indent: 1.00em;
+text-align: justify;
+margin-left: 1em;
+margin-top:0em;
+margin-bottom:0em;
+margin-right: 1em;
+}
+
+div.chapter
+{
+margin-top: 2em;
+margin-left: 0.5em;
+margin-right: 0.5em;
+}
+
+div.part
+{
+margin-top: 2em;
+margin-left: 0.5em;
+margin-right: 0.5em;
+}
+
+
+span.strike
+{
+text-decoration: line-through;
+}
+
+img
+{
+max-height: 100%;
+max-width: 100%;
+}
+
+
+sup
+{
+	vertical-align: 4px;
+}
+
+sup.frac
+{
+	font-size: 0.7em;
+}
+
+
+sub.frac
+{
+	font-size: 0.7em;
+}
+
+p.pagebreak
+{
+page-break-before: always;
+}
+
+p.textboxextract
+{
+line-height:1.3em;
+margin-top: 2em;
+text-align: justify;
+margin-left: 1em;
+margin-right: 1em;
+}
+
+/* =============== New Style added =============== */
+
+/* == For TOC == */
+
+div.toc_fm
+{
+margin-top:1em; 
+margin-bottom:1em;
+text-align: left;
+margin-left:0.5em;
+font-size:0.9em;
+line-height:1.3em;
+font-style: italic;
+}
+
+div.toc_bm1
+{
+margin-top:1em; 
+margin-bottom:1em;
+margin-left:1.5em;
+line-height:1.3em;
+}
+
+div.toc_bm
+{
+margin-top:1em; 
+margin-bottom:1em;
+margin-left:0.7em;
+font-size:0.9em;
+line-height:1.3em;
+font-style: italic;
+}
+
+div.toc_chap
+{
+text-align: left;
+text-indent:-5em;
+line-height:1.3em;
+margin-left:5.6em;
+margin-top:0.8em;
+}
+
+
+div.toc_chapw
+{
+text-align: left;
+text-indent:-5em;
+line-height:1.3em;
+margin-left:5.2em;
+margin-top:0.8em;
+}
+
+
+div.toc_toc1
+{
+margin-left:2.5em;
+font-size:1em;
+line-height:1.4em;
+}
+
+
+div.toc_sub
+{
+margin-left:2em;
+font-size:smaller;
+line-height:1.4em;
+}
+
+div.toc_part
+{
+margin-left:1.5em;
+line-height:1.5em;
+font-size:1em;
+margin-top:1em;
+}
+
+
+/* == For Block Quotes == */
+
+div.block
+{
+margin-left: 0em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+
+
+div.blockk
+{
+margin-left: 6em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+
+div.block1
+{
+margin-left: 1em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+div.block2
+{
+margin-left: 2em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+div.block3
+{
+margin-left: 3em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+div.block4
+{
+margin-left: 4em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+div.block8
+{
+margin-left: 5em;
+margin-right: 0em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom: 1em;
+font-size: small;
+}
+p.bl_nonindent
+{
+text-indent: 0;
+margin-left:1em;
+margin-right:1.5em;
+text-align:justify;
+line-height:1.3em;
+margin-top:0em;
+margin-bottom:0em;
+}
+
+p.bl_nonindenta
+{
+text-indent: -1.5em;
+margin-left:2.5em;
+margin-right:1.5em;
+text-align:justify;
+line-height:1.3em;
+margin-top:0em;
+margin-bottom:0em;
+}
+
+
+p.bl_indent
+{
+line-height:1.3em;
+text-indent:1em;
+margin-left:1em;
+margin-right:1.5em;
+text-align:justify;
+margin-top:0em;
+margin-bottom:0em;
+}
+p.bl_extract
+{
+line-height:1.3em;
+margin-left:1em;
+margin-right:2.5em;
+text-align:justify;
+margin-top: 1em;
+margin-bottom:1em;
+}
+
+p.bl_center
+{
+line-height:1.3em;
+margin-left:1em;
+margin-right:2.5em;
+margin-top: 0.3em;
+text-align: center;
+margin-bottom: 0em;
+}
+
+p.bl_right
+{
+line-height:1.3em;
+text-align: right;
+margin-left:1em;
+margin-top:1em;
+margin-right:2.5em;
+}
+
+p.bl_righta
+{
+line-height:1.3em;
+text-align: right;
+margin-left:1em;
+margin-top:0em;
+margin-right:2.5em;
+}
+
+
+/* For Hanging Paragraphs */
+
+div.hanging
+{
+margin-left: 1.0em;
+}
+
+div.hangings
+{
+margin-left: 1.0em;
+margin-top:1.0em;
+margin-bottom:1em;
+}
+
+
+div.hanging1
+{
+margin-left: 2.0em;
+}
+
+
+
+/* For Dialogue Text */
+
+div.dialogue
+{
+margin-left: 4.2em;
+margin-bottom: 2em;
+margin-top: 1.5em;
+font-size: small;
+}
+
+p.d_hanging
+{
+text-indent: -4.2em;
+font-size: small;
+margin-top: 0.5em;
+}
+
+/* For bullet list */
+
+ul.bullet
+{
+list-style-type: disc;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+div.bullet
+{
+margin-left: .8em;
+margin-top: 0;
+margin-bottom: 0;
+text-align: justified;
+}
+
+/* For Fractions */
+.frac_num
+{font-size:x-small; vertical-align:text-top;}
+.frac_den
+{font-size:x-small; vertical-align:text-bottom;}
+
+
+span.border
+{
+border-top:1px solid;
+border-bottom:1px solid;
+padding:0.5%;
+}
+img
+{
+vertical-align:middle;
+}
+img.img
+{
+vertical-align: top;
+}
+table.table
+{
+margin-top:1em;
+margin-bottom:1em;
+}
+
+table.table1
+{
+margin-top:1em;
+margin-left:7.0em;
+margin-bottom:1em;
+}
