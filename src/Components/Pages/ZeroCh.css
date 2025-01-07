@@ -1,0 +1,35 @@
+
+
+.practiceSection {
+  margin-block: 3rem;
+  padding-top: 3rem;
+  border-top: 0.2rem solid rgba(128, 128, 128, 0.24);
+}
+.practiceSection__header {
+  font-size: 2.4rem;
+  margin-bottom: 4rem;
+  font-weight: 500;
+}
+.elevenDigitMultiplyContainer,
+.squarePracticeContainer {
+  margin-top: 4rem;
+}
+.elevenDigitMultiply__header,
+.squarePractice__header {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.elevenDigitMultiply__practice,
+.squarePractice__practice {
+  display: flex;
+  gap: 0.4rem;
+}
+.nxtBtn {
+  margin-block: 1rem;
+  display: flex;
+  gap: 2rem;
+}
+.materialReference {
+  font-size: 0.870rem;
+  font-weight: 500;
+}

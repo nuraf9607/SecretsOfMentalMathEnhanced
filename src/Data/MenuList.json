@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "name": "Chapter 0",
+      "description": "Quick Tricks: Easy (and Impressive) Calculations",
+      "link": "/chapterZero"
+    },
+    {
+      "id": 1,
+      "name": "Chapter 1",
+      "description": "A Little Give and Take: Mental Addition and Subtraction",
+      "link": "/chapterOne"
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2",
+      "description": "Products of a Misspent Youth: Basic Multiplication",
+      "link": "/chapterTwo"
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3",
+      "description": "New and Improved Products: Intermediate Multiplication",
+      "link": "/chapterThree"
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4",
+      "description": "Divide and Conquer: Mental Division",
+      "link": "/chapterFour"
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5",
+      "description": "Good Enough: The Art of “Guesstimation”",
+      "link": "/chapterFive"
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6",
+      "description": "Math for the Board: Pencil-and-Paper Math",
+      "link": "/chapterSix"
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7",
+      "description": "A Memorable Chapter: Memorizing Numbers",
+      "link": "/chapterSeven"
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8",
+      "description": "The Tough Stuff Made Easy: Advanced Multiplication",
+      "link": "/chapterEight"
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9",
+      "description": "Presto-digit-ation: The Art of Mathematical Magic",
+      "link": "/chapterNine"
+    },
+    {
+      "id": 11,
+      "name": "Chapter ∞",
+      "description": "Epilogue by Michael Shermer: How Math Helps Us Think About Weird Things",
+      "link": "/chapterEpilogue"
+    },
+    {
+      "id": 12,
+      "name": "Experimental",
+      "description": "Experimenting Function which are unlreleated to the main website",
+      "link": "/experimentDev"
+    }
+  ]
+  
