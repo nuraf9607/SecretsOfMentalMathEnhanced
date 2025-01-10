@@ -13,7 +13,7 @@ const Content = () => {
     <div className="w-full  max-w-5xl m-auto mt-10 relative md:grid grid-cols-[1fr,2fr] ">
       <nav className="flex-col gap-8 hidden sm:flex ">
         <ul className="sticky top-48 max-w-[16rem] text-sm flex flex-col gap-3  [@media_(max-height:840px)]:overflow-y-scroll h-[calc(100vh-260px)]">
-          {data.map((item) => (
+          {data?.map((item) => (
             <a
               key={item.id}
               className="no-underline"
