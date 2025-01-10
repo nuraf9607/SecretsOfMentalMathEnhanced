@@ -51,7 +51,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/static/images/Benj_9780307347466_epub_257_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_257_r1.jpg"
           width="59"
         />
       </div>
@@ -102,7 +102,7 @@ const SixCh = () => {
         <img
           alt=""
           height="343"
-          src="/static/images/Benj_9780307347466_epub_258_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_258_r1.jpg"
           width="384"
         />
       </div>
@@ -149,7 +149,7 @@ const SixCh = () => {
         <img
           alt=""
           height="152"
-          src="/static/images/Benj_9780307347466_epub_259_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_259_r1.jpg"
           width="200"
         />
       </div>
@@ -161,7 +161,7 @@ const SixCh = () => {
         <img
           alt=""
           height="234"
-          src="/static/images/Benj_9780307347466_epub_260_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_260_r1.jpg"
           width="274"
         />
       </div>
@@ -183,7 +183,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/static/images/Benj_9780307347466_epub_261_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_261_r1.jpg"
           width="200"
         />
       </div>
@@ -250,7 +250,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/static/images/Benj_9780307347466_epub_262_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_262_r1.jpg"
           width="186"
         />
       </div>
@@ -264,7 +264,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/static/images/Benj_9780307347466_epub_263_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_263_r1.jpg"
           width="212"
         />
       </div>
@@ -277,7 +277,7 @@ const SixCh = () => {
         <img
           alt=""
           height="151"
-          src="/static/images/Benj_9780307347466_epub_264_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_264_r1.jpg"
           width="126"
         />
       </div>
@@ -298,7 +298,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_265_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_265_r1.jpg"
           width="58"
         />
       </div>
@@ -311,7 +311,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_266_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_266_r1.jpg"
           width="92"
         />
       </div>
@@ -324,7 +324,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_267_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_267_r1.jpg"
           width="92"
         />
       </div>
@@ -337,7 +337,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_268_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_268_r1.jpg"
           width="92"
         />
       </div>
@@ -353,7 +353,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_269_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_269_r1.jpg"
           width="56"
         />
       </div>
@@ -365,7 +365,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_270_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_270_r1.jpg"
           width="83"
         />
       </div>
@@ -377,7 +377,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_271_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_271_r1.jpg"
           width="83"
         />
       </div>
@@ -388,7 +388,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_272_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_272_r1.jpg"
           width="83"
         />
       </div>
@@ -403,7 +403,7 @@ const SixCh = () => {
         <img
           alt=""
           height="74"
-          src="/static/images/Benj_9780307347466_epub_273_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_273_r1.jpg"
           width="83"
         />
       </div>
@@ -415,7 +415,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_274_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_274_r1.jpg"
           width="130"
         />
       </div>
@@ -428,7 +428,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_275_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_275_r1.jpg"
           width="130"
         />
       </div>
@@ -440,7 +440,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_276_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_276_r1.jpg"
           width="130"
         />
       </div>
@@ -452,7 +452,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_277_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_277_r1.jpg"
           width="130"
         />
       </div>
@@ -464,7 +464,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_278_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_278_r1.jpg"
           width="130"
         />
       </div>
@@ -489,7 +489,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/static/images/Benj_9780307347466_epub_279_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_279_r1.jpg"
           width="153"
         />
       </div>
@@ -505,7 +505,7 @@ const SixCh = () => {
         <img
           alt=""
           height="74"
-          src="/static/images/Benj_9780307347466_epub_280_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_280_r1.jpg"
           width="64"
         />
       </div>
@@ -516,7 +516,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_281_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_281_r1.jpg"
           width="128"
         />
       </div>
@@ -528,7 +528,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_282_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_282_r1.jpg"
           width="128"
         />
       </div>
@@ -540,7 +540,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_283_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_283_r1.jpg"
           width="128"
         />
       </div>
@@ -552,7 +552,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_284_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_284_r1.jpg"
           width="128"
         />
       </div>
@@ -565,7 +565,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_285_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_285_r1.jpg"
           width="129"
         />
       </div>
@@ -586,7 +586,7 @@ const SixCh = () => {
         <img
           alt=""
           height="72"
-          src="/static/images/Benj_9780307347466_epub_286_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_286_r1.jpg"
           width="136"
         />
       </div>
@@ -597,7 +597,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_287_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_287_r1.jpg"
           width="219"
         />
       </div>
@@ -609,7 +609,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_288_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_288_r1.jpg"
           width="219"
         />
       </div>
@@ -621,7 +621,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_289_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_289_r1.jpg"
           width="219"
         />
       </div>
@@ -634,7 +634,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_290_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_290_r1.jpg"
           width="219"
         />
       </div>
@@ -646,7 +646,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_291_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_291_r1.jpg"
           width="219"
         />
       </div>
@@ -658,7 +658,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_292_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_292_r1.jpg"
           width="219"
         />
       </div>
@@ -670,7 +670,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_293_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_293_r1.jpg"
           width="219"
         />
       </div>
@@ -682,7 +682,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_294_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_294_r1.jpg"
           width="219"
         />
       </div>
@@ -694,7 +694,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/static/images/Benj_9780307347466_epub_295_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_295_r1.jpg"
           width="219"
         />
       </div>
@@ -709,7 +709,7 @@ const SixCh = () => {
         <img
           alt=""
           height="178"
-          src="/static/images/Benj_9780307347466_epub_296_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_296_r1.jpg"
           width="219"
         />
       </div>
@@ -729,7 +729,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/static/images/Benj_9780307347466_epub_297_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_297_r1.jpg"
           width="502"
         />
       </div>
@@ -738,7 +738,7 @@ const SixCh = () => {
         <img
           alt=""
           height="123"
-          src="/static/images/Benj_9780307347466_epub_298_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_298_r1.jpg"
           width="388"
         />
       </div>
@@ -790,7 +790,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/static/images/Benj_9780307347466_epub_299_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_299_r1.jpg"
           width="171"
         />
       </div>
@@ -818,7 +818,7 @@ const SixCh = () => {
         <img
           alt=""
           height="45"
-          src="/static/images/Benj_9780307347466_epub_300_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_300_r1.jpg"
           width="144"
         />
       </div>
@@ -969,7 +969,7 @@ const SixCh = () => {
         <img
           alt=""
           height="72"
-          src="/static/images/Benj_9780307347466_epub_301_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_301_r1.jpg"
           width="315"
         />
       </div>
@@ -980,7 +980,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_302_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_302_r1.jpg"
           width="287"
         />
       </div>
@@ -993,7 +993,7 @@ const SixCh = () => {
         <img
           alt=""
           height="182"
-          src="/static/images/Benj_9780307347466_epub_303_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_303_r1.jpg"
           width="79"
         />
       </div>
@@ -1002,7 +1002,7 @@ const SixCh = () => {
         <img
           alt=""
           height="155"
-          src="/static/images/Benj_9780307347466_epub_304_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_304_r1.jpg"
           width="105"
         />
         <a id="page150"></a>
@@ -1011,7 +1011,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_305_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_305_r1.jpg"
           width="298"
         />
       </div>
@@ -1023,7 +1023,7 @@ const SixCh = () => {
         <img
           alt=""
           height="45"
-          src="/static/images/Benj_9780307347466_epub_306_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_306_r1.jpg"
           width="525"
         />
       </div>
@@ -1031,7 +1031,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_307_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_307_r1.jpg"
           width="352"
         />
       </div>
@@ -1043,7 +1043,7 @@ const SixCh = () => {
         <img
           alt=""
           height="82"
-          src="/static/images/Benj_9780307347466_epub_308_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_308_r1.jpg"
           width="410"
         />
       </div>
@@ -1057,7 +1057,7 @@ const SixCh = () => {
         <img
           alt=""
           height="146"
-          src="/static/images/Benj_9780307347466_epub_309_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_309_r1.jpg"
           width="399"
         />
       </div>

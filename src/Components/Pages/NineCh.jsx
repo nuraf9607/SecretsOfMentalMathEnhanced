@@ -101,7 +101,7 @@ const NineCh = () => {
         <img
           alt=""
           height="128"
-          src="/static/images/Benj_9780307347466_epub_394_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_394_r1.jpg"
           width="54"
         />
       </div>
@@ -130,7 +130,7 @@ const NineCh = () => {
         <img
           alt=""
           height="127"
-          src="/static/images/Benj_9780307347466_epub_395_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_395_r1.jpg"
           width="550"
         />
       </div>
@@ -224,7 +224,7 @@ const NineCh = () => {
         <img
           alt=""
           height="297"
-          src="/static/images/Benj_9780307347466_epub_396_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_396_r1.jpg"
           width="154"
         />
       </div>
@@ -238,7 +238,7 @@ const NineCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_515_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_515_r1.jpg"
           width="24"
         />{" "}
         = 1.616.… Have the spectator announce the first three digits of the
@@ -262,7 +262,7 @@ const NineCh = () => {
         <img
           alt=""
           height="325"
-          src="/static/images/Benj_9780307347466_epub_397_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_397_r1.jpg"
           width="242"
         />
       </div>
@@ -277,7 +277,7 @@ const NineCh = () => {
         <img
           alt=""
           height="41"
-          src="/static/images/Benj_9780307347466_epub_398_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_398_r1.jpg"
           width="139"
         />
       </div>
@@ -292,7 +292,7 @@ const NineCh = () => {
         <img
           alt=""
           height="45"
-          src="/static/images/Benj_9780307347466_epub_399_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_399_r1.jpg"
           width="434"
         />
       </div>
@@ -307,7 +307,7 @@ const NineCh = () => {
         <img
           alt=""
           height="46"
-          src="/static/images/Benj_9780307347466_epub_400_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_400_r1.jpg"
           width="250"
         />
       </div>
@@ -332,7 +332,7 @@ const NineCh = () => {
         <img
           alt=""
           height="125"
-          src="/static/images/Benj_9780307347466_epub_401_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_401_r1.jpg"
           width="304"
         />
       </div>
@@ -359,7 +359,7 @@ const NineCh = () => {
         <img
           alt=""
           height="110"
-          src="/static/images/Benj_9780307347466_epub_402_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_402_r1.jpg"
           width="304"
         />
       </div>
@@ -426,7 +426,7 @@ const NineCh = () => {
         <img
           alt=""
           height="112"
-          src="/static/images/Benj_9780307347466_epub_403_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_403_r1.jpg"
           width="305"
         />
       </div>
@@ -441,7 +441,7 @@ const NineCh = () => {
         <img
           alt=""
           height="116"
-          src="/static/images/Benj_9780307347466_epub_404_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_404_r1.jpg"
           width="299"
         />
       </div>
@@ -453,7 +453,7 @@ const NineCh = () => {
         <img
           alt=""
           height="87"
-          src="/static/images/Benj_9780307347466_epub_405_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_405_r1.jpg"
           width="218"
         />
       </div>
@@ -779,7 +779,7 @@ const NineCh = () => {
         <img
           alt=""
           height="151"
-          src="/static/images/Benj_9780307347466_epub_406_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_406_r1.jpg"
           width="158"
         />
       </div>
@@ -1073,7 +1073,7 @@ const NineCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_516_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_516_r1.jpg"
           width="17"
         />{" "}
         = 15 (with a remainder of 1 that we ignore). Thus 2061 has a year code
@@ -1084,7 +1084,7 @@ const NineCh = () => {
         <img
           alt=""
           height="624"
-          src="/static/images/Benj_9780307347466_epub_407_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_407_r1.jpg"
           width="471"
         />
       </div>
@@ -1107,7 +1107,7 @@ const NineCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_517_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_517_r1.jpg"
           width="17"
         />{" "}
         = 24 (with a remainder of 2 that we ignore). Thus 1998 has year code 98
@@ -1183,7 +1183,7 @@ const NineCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_408_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_408_r1.jpg"
           width="264"
         />
       </div>

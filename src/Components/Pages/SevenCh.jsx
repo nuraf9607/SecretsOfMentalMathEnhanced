@@ -58,7 +58,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_514_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_514_r1.jpg"
           width="18"
         />
         . In fact, p is an irrational number (one whose digits continue
@@ -1089,7 +1089,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="44"
-          src="/static/images/Benj_9780307347466_epub_310_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_310_r1.jpg"
           width="511"
         />
       </div>
@@ -1112,7 +1112,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="44"
-          src="/static/images/Benj_9780307347466_epub_311_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_311_r1.jpg"
           width="394"
         />
       </div>
@@ -1123,7 +1123,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="45"
-          src="/static/images/Benj_9780307347466_epub_312_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_312_r1.jpg"
           width="426"
         />
       </div>
@@ -1132,7 +1132,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="127"
-          src="/static/images/Benj_9780307347466_epub_313_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_313_r1.jpg"
           width="520"
         />
       </div>
@@ -1201,7 +1201,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="133"
-          src="/static/images/Benj_9780307347466_epub_314_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_314_r1.jpg"
           width="504"
         />
       </div>
@@ -1228,7 +1228,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="132"
-          src="/static/images/Benj_9780307347466_epub_315_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_315_r1.jpg"
           width="482"
         />
       </div>

@@ -22,7 +22,7 @@ function App() {
         <a href="/">
           <img
             className="max-w-16"
-            src="/static/images/Mental-icon.png"
+            src="/Static/images/Mental-icon.png"
             alt=""
           />
         </a>
@@ -121,7 +121,7 @@ function App() {
       <Outlet></Outlet>
 
       <footer className="mt-24 pb-2 border-t-2">
-        <img src="/static/images/gojo-shocked.png" alt="" />
+        <img src="/Static/images/gojo-shocked.png" alt="" />
         <p>
           <span className="font-bold">Disclaimer:</span>{" "}
           <span className="text-sm">

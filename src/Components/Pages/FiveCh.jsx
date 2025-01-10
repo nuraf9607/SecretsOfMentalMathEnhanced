@@ -57,7 +57,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_481_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_481_r1.jpg"
           width="11"
         />
         . Altogether, we have our answer, 25 with a remainder of 4, or if you
@@ -65,7 +65,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_482_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_482_r1.jpg"
           width="11"
         />
         . Here’s what the process looks like:
@@ -74,7 +74,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="220"
-          src="/static/images/Benj_9780307347466_epub_146_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_146_r1.jpg"
           width="371"
         />
       </div>
@@ -99,7 +99,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="218"
-          src="/static/images/Benj_9780307347466_epub_147_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_147_r1.jpg"
           width="371"
         />
       </div>
@@ -130,7 +130,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="289"
-          src="/static/images/Benj_9780307347466_epub_148_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_148_r1.jpg"
           width="220"
         />
       </div>
@@ -152,7 +152,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="272"
-          src="/static/images/Benj_9780307347466_epub_149_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_149_r1.jpg"
           width="128"
         />
       </div>
@@ -163,7 +163,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_483_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_483_r1.jpg"
           width="49"
         />
         . We’ll see more division shortcuts in the next section.
@@ -172,7 +172,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="101"
-          src="/static/images/Benj_9780307347466_epub_150_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_150_r1.jpg"
           width="527"
         />
       </div>
@@ -228,7 +228,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="301"
-          src="/static/images/Benj_9780307347466_epub_151_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_151_r1.jpg"
           width="128"
         />
       </div>
@@ -254,7 +254,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="361"
-          src="/static/images/Benj_9780307347466_epub_152_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_152_r1.jpg"
           width="119"
         />
       </div>
@@ -295,7 +295,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="216"
-          src="/static/images/Benj_9780307347466_epub_153_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_153_r1.jpg"
           width="128"
         />
       </div>
@@ -319,7 +319,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="218"
-          src="/static/images/Benj_9780307347466_epub_154_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_154_r1.jpg"
           width="128"
         />
       </div>
@@ -337,7 +337,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="98"
-          src="/static/images/Benj_9780307347466_epub_155_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_155_r1.jpg"
           width="58"
         />
         <a id="page89"></a>
@@ -346,7 +346,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="40"
-          src="/static/images/Benj_9780307347466_epub_156_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_156_r1.jpg"
           width="118"
         />
       </div>
@@ -360,7 +360,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_484_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_484_r1.jpg"
           width="18"
         />
         . The reason this trick works is because 491 = (62 × 8) − 5 = 62 × (7 +
@@ -394,7 +394,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="224"
-          src="/static/images/Benj_9780307347466_epub_157_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_157_r1.jpg"
           width="128"
         />
       </div>
@@ -405,7 +405,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="323"
-          src="/static/images/Benj_9780307347466_epub_158_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_158_r1.jpg"
           width="138"
         />
       </div>
@@ -426,7 +426,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="221"
-          src="/static/images/Benj_9780307347466_epub_159_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_159_r1.jpg"
           width="429"
         />
       </div>
@@ -436,7 +436,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="25"
-          src="/static/images/Benj_9780307347466_epub_485_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_485_r1.jpg"
           width="17"
         />
         is the same as ⅝. Therefore, when using this method, you must always
@@ -450,7 +450,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="230"
-          src="/static/images/Benj_9780307347466_epub_160_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_160_r1.jpg"
           width="375"
         />
       </div>
@@ -467,7 +467,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="211"
-          src="/static/images/Benj_9780307347466_epub_161_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_161_r1.jpg"
           width="511"
         />
       </div>
@@ -480,7 +480,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="154"
-          src="/static/images/Benj_9780307347466_epub_162_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_162_r1.jpg"
           width="331"
         />
       </div>
@@ -492,7 +492,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="155"
-          src="/static/images/Benj_9780307347466_epub_163_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_163_r1.jpg"
           width="484"
         />
         <a id="page93"></a>
@@ -501,7 +501,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="40"
-          src="/static/images/Benj_9780307347466_epub_164_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_164_r1.jpg"
           width="117"
         />
       </div>
@@ -514,7 +514,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="218"
-          src="/static/images/Benj_9780307347466_epub_165_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_165_r1.jpg"
           width="521"
         />
       </div>
@@ -531,7 +531,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="54"
-          src="/static/images/Benj_9780307347466_epub_166_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_166_r1.jpg"
           width="528"
         />
       </div>
@@ -557,7 +557,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="42"
-          src="/static/images/Benj_9780307347466_epub_167_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_167_r1.jpg"
           width="409"
         />
       </div>
@@ -566,7 +566,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="40"
-          src="/static/images/Benj_9780307347466_epub_168_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_168_r1.jpg"
           width="388"
         />
       </div>
@@ -575,7 +575,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="40"
-          src="/static/images/Benj_9780307347466_epub_169_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_169_r1.jpg"
           width="428"
         />
       </div>
@@ -586,7 +586,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="123"
-          src="/static/images/Benj_9780307347466_epub_170_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_170_r1.jpg"
           width="527"
         />
       </div>
@@ -597,7 +597,7 @@ const FiveCh = () => {
         <img
           alt=""
           height="123"
-          src="/static/images/Benj_9780307347466_epub_171_r1.jpg"
+          src="/Static/images/Benj_9780307347466_epub_171_r1.jpg"
           width="527"
         />
         <a id="page95"></a>/div&gt;
@@ -605,7 +605,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="125"
-            src="/static/images/Benj_9780307347466_epub_172_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_172_r1.jpg"
             width="527"
           />
         </div>
@@ -614,7 +614,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="125"
-            src="/static/images/Benj_9780307347466_epub_173_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_173_r1.jpg"
             width="524"
           />
         </div>
@@ -626,7 +626,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="209"
-            src="/static/images/Benj_9780307347466_epub_174_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_174_r1.jpg"
             width="528"
           />
         </div>
@@ -635,7 +635,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_486_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_486_r1.jpg"
             width="17"
           />{" "}
           = .0909, the rest is easy:
@@ -644,7 +644,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="124"
-            src="/static/images/Benj_9780307347466_epub_175_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_175_r1.jpg"
             width="524"
           />
         </div>
@@ -652,7 +652,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="104"
-            src="/static/images/Benj_9780307347466_epub_176_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_176_r1.jpg"
             width="385"
           />
           <a id="page96"></a>
@@ -662,7 +662,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_487_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_487_r1.jpg"
             width="11"
           />
           , you can get all the other sevenths without having to compute them:
@@ -671,7 +671,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="105"
-            src="/static/images/Benj_9780307347466_epub_177_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_177_r1.jpg"
             width="524"
           />
         </div>
@@ -682,7 +682,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_488_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_488_r1.jpg"
             width="11"
           />
           , 2 × .14 = .28, so use the sequence that begins with the 2, namely
@@ -690,7 +690,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_489_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_489_r1.jpg"
             width="10"
           />
           , since 3 × .14 = .42, use the sequence that begins with 4, namely
@@ -701,7 +701,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_490_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_490_r1.jpg"
             width="18"
           />{" "}
           as you would any other division problem. However, keep your eyes
@@ -710,14 +710,14 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_491_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_491_r1.jpg"
             width="17"
           />{" "}
           by dividing both numbers by 2, to reduce it to{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_492_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_492_r1.jpg"
             width="17"
           />
           , which is easier to compute.
@@ -731,7 +731,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_178_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_178_r1.jpg"
             width="91"
           />
         </div>
@@ -742,7 +742,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_493_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_493_r1.jpg"
             width="20"
           />
           , once you begin the calculation, the number you memorized will pop
@@ -752,7 +752,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="102"
-            src="/static/images/Benj_9780307347466_epub_179_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_179_r1.jpg"
             width="105"
           />
         </div>
@@ -769,7 +769,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="62"
-            src="/static/images/Benj_9780307347466_epub_180_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_180_r1.jpg"
             width="344"
           />
         </div>
@@ -781,7 +781,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="174"
-            src="/static/images/Benj_9780307347466_epub_181_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_181_r1.jpg"
             width="376"
           />
         </div>
@@ -793,7 +793,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="98"
-            src="/static/images/Benj_9780307347466_epub_182_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_182_r1.jpg"
             width="71"
           />
         </div>
@@ -802,21 +802,21 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_183_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_183_r1.jpg"
             width="18"
           />
           , you can further reduce it to{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_184_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_184_r1.jpg"
             width="11"
           />
           , which you know to be .875. Thus{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_185_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_185_r1.jpg"
             width="18"
           />{" "}
           = .1875.
@@ -825,7 +825,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_186_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_186_r1.jpg"
             width="235"
           />
         </div>
@@ -838,7 +838,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="101"
-            src="/static/images/Benj_9780307347466_epub_187_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_187_r1.jpg"
             width="528"
           />
         </div>
@@ -880,7 +880,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_494_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_494_r1.jpg"
             width="10"
           />
           ), the number is not divisible by 8. You could also have observed this
@@ -947,7 +947,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_188_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_188_r1.jpg"
             width="304"
           />
         </div>
@@ -959,7 +959,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="553"
-            src="/static/images/Benj_9780307347466_epub_189_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_189_r1.jpg"
             width="526"
           />
           <a id="page102"></a>
@@ -968,7 +968,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="207"
-            src="/static/images/Benj_9780307347466_epub_190_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_190_r1.jpg"
             width="490"
           />
         </div>
@@ -994,7 +994,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_191_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_191_r1.jpg"
             width="342"
           />
         </div>
@@ -1005,7 +1005,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="108"
-            src="/static/images/Benj_9780307347466_epub_192_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_192_r1.jpg"
             width="522"
           />
         </div>
@@ -1021,7 +1021,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_495_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_495_r1.jpg"
             width="11"
           />
           . Therefore,
@@ -1030,7 +1030,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="112"
-            src="/static/images/Benj_9780307347466_epub_193_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_193_r1.jpg"
             width="220"
           />
         </div>
@@ -1038,7 +1038,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_194_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_194_r1.jpg"
             width="268"
           />
         </div>
@@ -1047,7 +1047,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_195_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_195_r1.jpg"
             width="404"
           />
         </div>
@@ -1059,14 +1059,14 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_496_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_496_r1.jpg"
             width="11"
           />{" "}
           is the same as 6 ÷ 3 = 2. The fraction{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_520_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_520_r1.jpg"
             width="11"
           />{" "}
           is the same as 1 ÷ <strong>4</strong> (which is .25 in decimal form).
@@ -1075,84 +1075,84 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           ={" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           × 1. But if we replace 1 with{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_497_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_497_r1.jpg"
             width="10"
           />
           , we get{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           ={" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           × 1 ={" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           ×{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_497_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_497_r1.jpg"
             width="10"
           />{" "}
           ={" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_498_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_498_r1.jpg"
             width="17"
           />
           . Hence,{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_521_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_521_r1.jpg"
             width="11"
           />{" "}
           ={" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_498_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_498_r1.jpg"
             width="17"
           />{" "}
           Likewise, if we replace 1 with{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_499_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_499_r1.jpg"
             width="11"
           />
           , we get{" "}
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_500_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_500_r1.jpg"
             width="120"
           />
           . In other words, if we multiply the numerator and denominator by the
@@ -1163,7 +1163,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_196_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_196_r1.jpg"
             width="172"
           />
         </div>
@@ -1177,7 +1177,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="112"
-            src="/static/images/Benj_9780307347466_epub_197_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_197_r1.jpg"
             width="182"
           />
         </div>
@@ -1188,7 +1188,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="25"
-            src="/static/images/Benj_9780307347466_epub_198_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_198_r1.jpg"
             width="295"
           />
         </div>
@@ -1200,7 +1200,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_199_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_199_r1.jpg"
             width="390"
           />
         </div>
@@ -1209,7 +1209,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_200_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_200_r1.jpg"
             width="409"
           />
         </div>
@@ -1225,7 +1225,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_201_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_201_r1.jpg"
             width="328"
           />
         </div>
@@ -1237,7 +1237,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_202_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_202_r1.jpg"
             width="161"
           />
         </div>
@@ -1245,7 +1245,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="100"
-            src="/static/images/Benj_9780307347466_epub_203_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_203_r1.jpg"
             width="523"
           />
         </div>
@@ -1259,7 +1259,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_204_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_204_r1.jpg"
             width="75"
           />
         </div>
@@ -1268,7 +1268,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_205_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_205_r1.jpg"
             width="75"
           />
         </div>
@@ -1277,7 +1277,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_206_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_206_r1.jpg"
             width="252"
           />
         </div>
@@ -1286,7 +1286,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_207_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_207_r1.jpg"
             width="64"
           />
         </div>
@@ -1295,7 +1295,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="41"
-            src="/static/images/Benj_9780307347466_epub_208_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_208_r1.jpg"
             width="64"
           />
         </div>
@@ -1306,7 +1306,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_209_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_209_r1.jpg"
             width="220"
           />
         </div>
@@ -1315,7 +1315,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_210_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_210_r1.jpg"
             width="64"
           />
         </div>
@@ -1324,7 +1324,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_211_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_211_r1.jpg"
             width="198"
           />
         </div>
@@ -1333,7 +1333,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_212_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_212_r1.jpg"
             width="241"
           />
         </div>
@@ -1341,7 +1341,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="182"
-            src="/static/images/Benj_9780307347466_epub_213_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_213_r1.jpg"
             width="525"
           />
         </div>
@@ -1356,7 +1356,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="40"
-            src="/static/images/Benj_9780307347466_epub_214_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_214_r1.jpg"
             width="522"
           />
           <a id="page107"></a>
@@ -1365,7 +1365,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="288"
-            src="/static/images/Benj_9780307347466_epub_215_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_215_r1.jpg"
             width="523"
           />
         </div>
@@ -1373,7 +1373,7 @@ const FiveCh = () => {
           <img
             alt=""
             height="264"
-            src="/static/images/Benj_9780307347466_epub_216_r1.jpg"
+            src="/Static/images/Benj_9780307347466_epub_216_r1.jpg"
             width="526"
           />
         </div>
