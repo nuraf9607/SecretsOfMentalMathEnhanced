@@ -50,7 +50,7 @@ const EightCh = () => {
         <img
           alt=""
           height="461"
-          src="/images/Benj_9780307347466_epub_316_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_316_r1.jpg"
           width="298"
         />
         <a id="page165"></a>
@@ -59,7 +59,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_317_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_317_r1.jpg"
           width="296"
         />
       </div>
@@ -75,7 +75,7 @@ const EightCh = () => {
         <img
           alt=""
           height="211"
-          src="/images/Benj_9780307347466_epub_318_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_318_r1.jpg"
           width="482"
         />
       </div>
@@ -126,7 +126,7 @@ const EightCh = () => {
         <img
           alt=""
           height="211"
-          src="/images/Benj_9780307347466_epub_319_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_319_r1.jpg"
           width="482"
         />
       </div>
@@ -154,7 +154,7 @@ const EightCh = () => {
         <img
           alt=""
           height="211"
-          src="/images/Benj_9780307347466_epub_320_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_320_r1.jpg"
           width="482"
         />
       </div>
@@ -225,7 +225,7 @@ const EightCh = () => {
         <img
           alt=""
           height="101"
-          src="/images/Benj_9780307347466_epub_321_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_321_r1.jpg"
           width="434"
         />
       </div>
@@ -252,7 +252,7 @@ const EightCh = () => {
         <img
           alt=""
           height="99"
-          src="/images/Benj_9780307347466_epub_322_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_322_r1.jpg"
           width="414"
         />
       </div>
@@ -271,7 +271,7 @@ const EightCh = () => {
         <img
           alt=""
           height="96"
-          src="/images/Benj_9780307347466_epub_323_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_323_r1.jpg"
           width="316"
         />
       </div>
@@ -282,7 +282,7 @@ const EightCh = () => {
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_324_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_324_r1.jpg"
           width="166"
         />
       </div>
@@ -293,7 +293,7 @@ const EightCh = () => {
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_325_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_325_r1.jpg"
           width="185"
         />
       </div>
@@ -305,7 +305,7 @@ const EightCh = () => {
         <img
           alt=""
           height="127"
-          src="/images/Benj_9780307347466_epub_326_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_326_r1.jpg"
           width="377"
         />
       </div>
@@ -323,7 +323,7 @@ const EightCh = () => {
         <img
           alt=""
           height="92"
-          src="/images/Benj_9780307347466_epub_327_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_327_r1.jpg"
           width="479"
         />
       </div>
@@ -346,7 +346,7 @@ const EightCh = () => {
         <img
           alt=""
           height="94"
-          src="/images/Benj_9780307347466_epub_328_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_328_r1.jpg"
           width="306"
         />
       </div>
@@ -359,7 +359,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_329_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_329_r1.jpg"
           width="234"
         />
       </div>
@@ -379,7 +379,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_330_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_330_r1.jpg"
           width="308"
         />
       </div>
@@ -396,7 +396,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_331_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_331_r1.jpg"
           width="316"
         />
       </div>
@@ -411,7 +411,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_332_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_332_r1.jpg"
           width="254"
         />
       </div>
@@ -430,7 +430,7 @@ const EightCh = () => {
         <img
           alt=""
           height="130"
-          src="/images/Benj_9780307347466_epub_333_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_333_r1.jpg"
           width="256"
         />
       </div>
@@ -450,7 +450,7 @@ const EightCh = () => {
         <img
           alt=""
           height="302"
-          src="/images/Benj_9780307347466_epub_334_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_334_r1.jpg"
           width="267"
         />
       </div>
@@ -462,7 +462,7 @@ const EightCh = () => {
         <img
           alt=""
           height="130"
-          src="/images/Benj_9780307347466_epub_335_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_335_r1.jpg"
           width="288"
         />
       </div>
@@ -483,7 +483,7 @@ const EightCh = () => {
         <img
           alt=""
           height="301"
-          src="/images/Benj_9780307347466_epub_336_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_336_r1.jpg"
           width="299"
         />
       </div>
@@ -500,7 +500,7 @@ const EightCh = () => {
         <img
           alt=""
           height="245"
-          src="/images/Benj_9780307347466_epub_337_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_337_r1.jpg"
           width="493"
         />
       </div>
@@ -513,7 +513,7 @@ const EightCh = () => {
         <img
           alt=""
           height="501"
-          src="/images/Benj_9780307347466_epub_338_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_338_r1.jpg"
           width="440"
         />
       </div>
@@ -525,7 +525,7 @@ const EightCh = () => {
         <img
           alt=""
           height="227"
-          src="/images/Benj_9780307347466_epub_339_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_339_r1.jpg"
           width="440"
         />
       </div>
@@ -548,7 +548,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_340_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_340_r1.jpg"
           width="140"
         />
       </div>
@@ -559,7 +559,7 @@ const EightCh = () => {
         <img
           alt=""
           height="42"
-          src="/images/Benj_9780307347466_epub_341_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_341_r1.jpg"
           width="419"
         />
       </div>
@@ -579,7 +579,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_342_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_342_r1.jpg"
           width="373"
         />
       </div>
@@ -632,7 +632,7 @@ const EightCh = () => {
         <img
           alt=""
           height="311"
-          src="/images/Benj_9780307347466_epub_343_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_343_r1.jpg"
           width="491"
         />
       </div>
@@ -657,7 +657,7 @@ const EightCh = () => {
         <img
           alt=""
           height="100"
-          src="/images/Benj_9780307347466_epub_344_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_344_r1.jpg"
           width="306"
         />
       </div>
@@ -682,7 +682,7 @@ const EightCh = () => {
         <img
           alt=""
           height="155"
-          src="/images/Benj_9780307347466_epub_345_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_345_r1.jpg"
           width="305"
         />
       </div>
@@ -690,7 +690,7 @@ const EightCh = () => {
         <img
           alt=""
           height="155"
-          src="/images/Benj_9780307347466_epub_346_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_346_r1.jpg"
           width="526"
         />
       </div>
@@ -698,7 +698,7 @@ const EightCh = () => {
         <img
           alt=""
           height="104"
-          src="/images/Benj_9780307347466_epub_347_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_347_r1.jpg"
           width="434"
         />
       </div>
@@ -723,7 +723,7 @@ const EightCh = () => {
         <img
           alt=""
           height="94"
-          src="/images/Benj_9780307347466_epub_348_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_348_r1.jpg"
           width="516"
         />
       </div>
@@ -744,7 +744,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_349_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_349_r1.jpg"
           width="343"
         />
       </div>
@@ -757,7 +757,7 @@ const EightCh = () => {
         <img
           alt=""
           height="152"
-          src="/images/Benj_9780307347466_epub_350_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_350_r1.jpg"
           width="295"
         />
       </div>
@@ -775,7 +775,7 @@ const EightCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_351_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_351_r1.jpg"
           width="288"
         />
       </div>
@@ -786,7 +786,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_352_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_352_r1.jpg"
           width="54"
         />
       </div>
@@ -798,7 +798,7 @@ const EightCh = () => {
         <img
           alt=""
           height="182"
-          src="/images/Benj_9780307347466_epub_353_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_353_r1.jpg"
           width="392"
         />
       </div>
@@ -899,7 +899,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_354_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_354_r1.jpg"
           width="54"
         />
       </div>
@@ -918,7 +918,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_355_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_355_r1.jpg"
           width="219"
         />
       </div>
@@ -936,7 +936,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_356_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_356_r1.jpg"
           width="213"
         />
       </div>
@@ -948,7 +948,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_357_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_357_r1.jpg"
           width="224"
         />
       </div>
@@ -960,7 +960,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_358_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_358_r1.jpg"
           width="184"
         />
       </div>
@@ -977,7 +977,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_359_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_359_r1.jpg"
           width="253"
         />
       </div>
@@ -989,7 +989,7 @@ const EightCh = () => {
         <img
           alt=""
           height="291"
-          src="/images/Benj_9780307347466_epub_360_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_360_r1.jpg"
           width="213"
         />
       </div>
@@ -1001,7 +1001,7 @@ const EightCh = () => {
         <img
           alt=""
           height="130"
-          src="/images/Benj_9780307347466_epub_361_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_361_r1.jpg"
           width="239"
         />
       </div>
@@ -1017,7 +1017,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_362_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_362_r1.jpg"
           width="312"
         />
       </div>
@@ -1030,7 +1030,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_363_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_363_r1.jpg"
           width="324"
         />
       </div>
@@ -1056,7 +1056,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_364_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_364_r1.jpg"
           width="314"
         />
       </div>
@@ -1071,7 +1071,7 @@ const EightCh = () => {
         <img
           alt=""
           height="156"
-          src="/images/Benj_9780307347466_epub_365_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_365_r1.jpg"
           width="467"
         />
       </div>
@@ -1085,7 +1085,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_366_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_366_r1.jpg"
           width="242"
         />
       </div>
@@ -1103,7 +1103,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_367_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_367_r1.jpg"
           width="332"
         />
       </div>
@@ -1115,7 +1115,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_368_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_368_r1.jpg"
           width="335"
         />
       </div>
@@ -1127,7 +1127,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_369_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_369_r1.jpg"
           width="180"
         />
       </div>
@@ -1141,7 +1141,7 @@ const EightCh = () => {
         <img
           alt=""
           height="149"
-          src="/images/Benj_9780307347466_epub_370_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_370_r1.jpg"
           width="316"
         />
       </div>
@@ -1153,7 +1153,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_371_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_371_r1.jpg"
           width="291"
         />
       </div>
@@ -1167,7 +1167,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_372_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_372_r1.jpg"
           width="462"
         />
       </div>
@@ -1180,7 +1180,7 @@ const EightCh = () => {
         <img
           alt=""
           height="188"
-          src="/images/Benj_9780307347466_epub_373_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_373_r1.jpg"
           width="345"
         />
       </div>
@@ -1196,7 +1196,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_374_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_374_r1.jpg"
           width="331"
         />
       </div>
@@ -1212,7 +1212,7 @@ const EightCh = () => {
         <img
           alt=""
           height="131"
-          src="/images/Benj_9780307347466_epub_375_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_375_r1.jpg"
           width="332"
         />
       </div>
@@ -1234,7 +1234,7 @@ const EightCh = () => {
         <img
           alt=""
           height="188"
-          src="/images/Benj_9780307347466_epub_376_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_376_r1.jpg"
           width="202"
         />
       </div>
@@ -1248,7 +1248,7 @@ const EightCh = () => {
         <img
           alt=""
           height="188"
-          src="/images/Benj_9780307347466_epub_377_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_377_r1.jpg"
           width="307"
         />
       </div>
@@ -1261,7 +1261,7 @@ const EightCh = () => {
         <img
           alt=""
           height="188"
-          src="/images/Benj_9780307347466_epub_378_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_378_r1.jpg"
           width="308"
         />
       </div>
@@ -1269,7 +1269,7 @@ const EightCh = () => {
         <img
           alt=""
           height="206"
-          src="/images/Benj_9780307347466_epub_379_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_379_r1.jpg"
           width="521"
         />
         <a id="page193"></a>
@@ -1278,7 +1278,7 @@ const EightCh = () => {
         <img
           alt=""
           height="140"
-          src="/images/Benj_9780307347466_epub_380_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_380_r1.jpg"
           width="526"
         />
       </div>
@@ -1290,7 +1290,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_381_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_381_r1.jpg"
           width="440"
         />
       </div>
@@ -1309,7 +1309,7 @@ const EightCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_382_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_382_r1.jpg"
           width="218"
         />
       </div>
@@ -1335,7 +1335,7 @@ const EightCh = () => {
           <img
             alt=""
             height="42"
-            src="/images/Benj_9780307347466_epub_383_r1.jpg"
+            src="/static/images/Benj_9780307347466_epub_383_r1.jpg"
             width="464"
           />
         </div>
@@ -1354,7 +1354,7 @@ const EightCh = () => {
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_384_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_384_r1.jpg"
           width="272"
         />
       </p>
@@ -1418,7 +1418,7 @@ const EightCh = () => {
         <img
           alt=""
           height="276"
-          src="/images/Benj_9780307347466_epub_385_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_385_r1.jpg"
           width="420"
         />
       </div>
@@ -1433,7 +1433,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_386_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_386_r1.jpg"
           width="182"
         />
       </div>
@@ -1448,7 +1448,7 @@ const EightCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_387_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_387_r1.jpg"
           width="80"
         />
       </div>
@@ -1460,7 +1460,7 @@ const EightCh = () => {
         <img
           alt=""
           height="44"
-          src="/images/Benj_9780307347466_epub_388_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_388_r1.jpg"
           width="418"
         />
       </div>
@@ -1474,11 +1474,11 @@ const EightCh = () => {
         Summing the 3-by-2s you commit the new total to memory.{" "}
         <a id="page197"></a>
       </p>
-      <p className="indent" style={{ marginTop: '1em', marginBottom: '1em' }}>
+      <p className="indent" style={{ marginTop: "1em", marginBottom: "1em" }}>
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_389_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_389_r1.jpg"
           width="236"
         />
       </p>
@@ -1509,18 +1509,18 @@ const EightCh = () => {
         <img
           alt=""
           height="188"
-          src="/images/Benj_9780307347466_epub_391_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_391_r1.jpg"
           width="414"
         />
       </div>
       <p className="indent">
         And in the next step you add this total to <em>Panama</em> (923,000):
       </p>
-      <p className="indent" style={{ marginTop: '1em', marginBottom: '1em' }}>
+      <p className="indent" style={{ marginTop: "1em", marginBottom: "1em" }}>
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_392_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_392_r1.jpg"
           width="125"
         />
       </p>
@@ -1536,7 +1536,7 @@ const EightCh = () => {
         <img
           alt=""
           height="437"
-          src="/images/Benj_9780307347466_epub_393_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_393_r1.jpg"
           width="502"
         />
       </div>

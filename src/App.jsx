@@ -6,7 +6,7 @@ import { fetchMenulist } from "./Utils/Utils";
 function App() {
   const menuLocation = useLocation();
   const [open, setOpen] = useState(false);
-  
+
   const [data, setData] = useState([]);
   useEffect(() => {
     fetchMenulist().then((menuList) => {
@@ -20,14 +20,19 @@ function App() {
         style={{ borderBottom: "1px solid #ccc" }}
       >
         <a href="/">
-          <img className="max-w-16" src="/images/Mental-icon.png" alt="" />
+          <img
+            className="max-w-16"
+            src="/static/images/Mental-icon.png"
+            alt=""
+          />
         </a>
         <p>SECRETS OF MENTAL MATH</p>
         {menuLocation.pathname === "/" ? (
           ""
         ) : (
           <nav
-            className="block sm:hidden pt-7 mt-5 "d
+            className="block sm:hidden pt-7 mt-5 "
+            d
             style={{ borderTop: "1px solid #ccc" }}
           >
             <div
@@ -116,7 +121,7 @@ function App() {
       <Outlet></Outlet>
 
       <footer className="mt-24 pb-2 border-t-2">
-        <img src="/Static/images/gojo-shocked.png" alt="" />
+        <img src="/static/images/gojo-shocked.png" alt="" />
         <p>
           <span className="font-bold">Disclaimer:</span>{" "}
           <span className="text-sm">

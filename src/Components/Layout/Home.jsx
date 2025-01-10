@@ -15,7 +15,7 @@ const Home = () => {
         <Link to="/content">
           <img
             className="max-w-60"
-            src="/images/Benj_9780307347466_epub_cvi_r1.jpg"
+            src="/static/images/Benj_9780307347466_epub_cvi_r1.jpg"
             alt=""
           />
         </Link>

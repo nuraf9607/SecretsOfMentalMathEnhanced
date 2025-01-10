@@ -49,7 +49,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="302"
-          src="/images/Benj_9780307347466_epub_066_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_066_r1.jpg"
           width="530"
         />
       </div>
@@ -75,7 +75,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_067_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_067_r1.jpg"
           width="37"
         />
       </div>
@@ -89,7 +89,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_068_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_068_r1.jpg"
           width="213"
         />
       </div>
@@ -105,7 +105,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_069_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_069_r1.jpg"
           width="116"
         />
       </div>
@@ -120,7 +120,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_070_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_070_r1.jpg"
           width="212"
         />
       </div>
@@ -133,7 +133,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_071_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_071_r1.jpg"
           width="478"
         />
       </div>
@@ -153,7 +153,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_072_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_072_r1.jpg"
           width="212"
         />
       </div>
@@ -162,7 +162,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_073_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_073_r1.jpg"
           width="213"
         />
       </div>
@@ -177,7 +177,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="127"
-          src="/images/Benj_9780307347466_epub_074_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_074_r1.jpg"
           width="484"
         />
       </div>
@@ -210,7 +210,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="127"
-          src="/images/Benj_9780307347466_epub_075_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_075_r1.jpg"
           width="496"
         />
       </div>
@@ -221,7 +221,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_076_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_076_r1.jpg"
           width="495"
         />
       </div>
@@ -249,7 +249,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="407"
-          src="/images/Benj_9780307347466_epub_077_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_077_r1.jpg"
           width="528"
         />
       </div>
@@ -267,7 +267,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="124"
-          src="/images/Benj_9780307347466_epub_078_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_078_r1.jpg"
           width="253"
         />
       </div>
@@ -285,7 +285,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_079_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_079_r1.jpg"
           width="293"
         />
       </div>
@@ -308,7 +308,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="178"
-          src="/images/Benj_9780307347466_epub_080_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_080_r1.jpg"
           width="294"
         />
       </div>
@@ -320,7 +320,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_081_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_081_r1.jpg"
           width="293"
         />
       </div>
@@ -340,7 +340,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="151"
-          src="/images/Benj_9780307347466_epub_082_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_082_r1.jpg"
           width="291"
         />
       </div>
@@ -366,7 +366,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="151"
-          src="/images/Benj_9780307347466_epub_083_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_083_r1.jpg"
           width="291"
         />
       </div>
@@ -384,7 +384,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="400"
-          src="/images/Benj_9780307347466_epub_084_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_084_r1.jpg"
           width="293"
         />
       </div>
@@ -396,7 +396,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="184"
-          src="/images/Benj_9780307347466_epub_085_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_085_r1.jpg"
           width="294"
         />
         <a id="page40"></a>
@@ -405,7 +405,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="178"
-          src="/images/Benj_9780307347466_epub_086_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_086_r1.jpg"
           width="292"
         />
       </div>
@@ -431,7 +431,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_087_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_087_r1.jpg"
           width="294"
         />
         <a id="page41"></a>
@@ -440,7 +440,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="178"
-          src="/images/Benj_9780307347466_epub_088_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_088_r1.jpg"
           width="292"
         />
       </div>
@@ -466,7 +466,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="124"
-          src="/images/Benj_9780307347466_epub_089_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_089_r1.jpg"
           width="257"
         />
         <a id="page42"></a>
@@ -475,7 +475,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="289"
-          src="/images/Benj_9780307347466_epub_090_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_090_r1.jpg"
           width="256"
         />
       </div>
@@ -491,7 +491,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_091_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_091_r1.jpg"
           width="255"
         />
       </div>
@@ -507,7 +507,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="624"
-          src="/images/Benj_9780307347466_epub_092_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_092_r1.jpg"
           width="380"
         />
       </div>
@@ -542,7 +542,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="300"
-          src="/images/Benj_9780307347466_epub_093_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_093_r1.jpg"
           width="476"
         />
       </div>
@@ -576,7 +576,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="195"
-          src="/images/Benj_9780307347466_epub_094_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_094_r1.jpg"
           width="488"
         />
       </div>
@@ -592,7 +592,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_095_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_095_r1.jpg"
           width="292"
         />
       </div>
@@ -603,7 +603,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_096_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_096_r1.jpg"
           width="322"
         />
       </div>
@@ -624,7 +624,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_097_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_097_r1.jpg"
           width="325"
         />
       </div>
@@ -637,7 +637,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_098_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_098_r1.jpg"
           width="325"
         />
       </div>
@@ -662,7 +662,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_099_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_099_r1.jpg"
           width="325"
         />
       </div>
@@ -678,7 +678,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="204"
-          src="/images/Benj_9780307347466_epub_100_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_100_r1.jpg"
           width="325"
         />
       </div>
@@ -711,7 +711,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_101_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_101_r1.jpg"
           width="325"
         />
       </div>
@@ -725,7 +725,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="25"
-          src="/images/Benj_9780307347466_epub_102_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_102_r1.jpg"
           width="263"
         />
       </div>
@@ -734,7 +734,7 @@ const ThreeCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_103_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_103_r1.jpg"
           width="525"
         />
       </div>

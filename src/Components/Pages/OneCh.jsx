@@ -2,11 +2,6 @@ import { useEffect, useRef, useState } from "react";
 import { useRandomDigits } from "../CustomHooks/useRandomDigits";
 
 const TwoCh = () => {
-
-
-
-  
-
   // const [nextTwoDigitChallengeKey, setNextTwoDigitChallengeKey] = useState(0);
   // const [xTwoDigit, yTwoDigit] = useRandomDigits(2, nextTwoDigitChallengeKey);
 
@@ -14,7 +9,6 @@ const TwoCh = () => {
   // const [xThreeDigit, yThreeDigit] = useRandomDigits(3, nextThreeDigitChallengeKey);
 
   // ... rest of your component logic
-
 
   // REFACTORED
 
@@ -50,9 +44,8 @@ const TwoCh = () => {
       alert("Please enter a valid number");
       return;
     }
-    if ((operationType === "subtract" && xDigit < YDigit)) {
+    if (operationType === "subtract" && xDigit < YDigit) {
       [xDigit, YDigit] = [YDigit, xDigit]; // Swap values
-
     }
     const correctAns =
       operationType === "add"
@@ -120,7 +113,6 @@ const TwoCh = () => {
     setXtwoDigitMin(genMinMaxDigits(2));
     setYtwoDigitMin(genMinMaxDigits(2));
   }, [nextTwoDigitMinChallengeKey]);
-
 
   // three digit substraction
 
@@ -295,7 +287,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_014_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_014_r1.jpg"
           width="122"
         />
       </div>
@@ -309,7 +301,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_015_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_015_r1.jpg"
           width="298"
         />
       </div>
@@ -327,7 +319,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_016_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_016_r1.jpg"
           width="122"
         />
       </div>
@@ -339,7 +331,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_017_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_017_r1.jpg"
           width="298"
         />
       </div>
@@ -351,7 +343,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_018_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_018_r1.jpg"
           width="122"
         />
       </div>
@@ -362,7 +354,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_019_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_019_r1.jpg"
           width="316"
         />
       </div>
@@ -379,7 +371,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_020_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_020_r1.jpg"
           width="122"
         />
       </div>
@@ -394,7 +386,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="206"
-          src="/images/Benj_9780307347466_epub_021_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_021_r1.jpg"
           width="528"
         />
       </div>
@@ -497,7 +489,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_022_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_022_r1.jpg"
           width="192"
         />
       </div>
@@ -511,7 +503,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_023_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_023_r1.jpg"
           width="494"
         />
       </div>
@@ -531,7 +523,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_024_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_024_r1.jpg"
           width="192"
         />
       </div>
@@ -546,7 +538,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_025_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_025_r1.jpg"
           width="496"
         />
       </div>
@@ -583,7 +575,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_026_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_026_r1.jpg"
           width="54"
         />
       </div>
@@ -594,7 +586,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_027_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_027_r1.jpg"
           width="470"
         />
       </div>
@@ -606,7 +598,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="18"
-          src="/images/Benj_9780307347466_epub_028_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_028_r1.jpg"
           width="438"
         />
       </div>
@@ -622,7 +614,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_029_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_029_r1.jpg"
           width="192"
         />
       </div>
@@ -633,7 +625,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_030_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_030_r1.jpg"
           width="469"
         />
       </div>
@@ -649,7 +641,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="104"
-          src="/images/Benj_9780307347466_epub_031_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_031_r1.jpg"
           width="360"
         />
       </div>
@@ -665,7 +657,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="104"
-          src="/images/Benj_9780307347466_epub_032_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_032_r1.jpg"
           width="506"
         />
       </div>
@@ -686,7 +678,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_033_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_033_r1.jpg"
           width="63"
         />
       </div>
@@ -699,7 +691,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_034_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_034_r1.jpg"
           width="240"
         />
       </div>
@@ -717,7 +709,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_035_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_035_r1.jpg"
           width="164"
         />
       </div>
@@ -728,7 +720,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_036_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_036_r1.jpg"
           width="380"
         />
       </div>
@@ -782,7 +774,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="105"
-          src="/images/Benj_9780307347466_epub_037_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_037_r1.jpg"
           width="519"
         />
       </div>
@@ -790,7 +782,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="146"
-          src="/images/Benj_9780307347466_epub_038_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_038_r1.jpg"
           width="526"
         />
       </div>
@@ -899,7 +891,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_039_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_039_r1.jpg"
           width="127"
         />
       </div>
@@ -913,7 +905,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_040_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_040_r1.jpg"
           width="295"
         />
       </div>
@@ -928,7 +920,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_041_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_041_r1.jpg"
           width="231"
         />
       </div>
@@ -941,7 +933,7 @@ const TwoCh = () => {
           <img
             alt=""
             height="35"
-            src="/images/Benj_9780307347466_epub_042_r1.jpg"
+            src="/static/images/Benj_9780307347466_epub_042_r1.jpg"
             width="298"
           />
         </div>
@@ -954,7 +946,7 @@ const TwoCh = () => {
           <img
             alt=""
             height="35"
-            src="/images/Benj_9780307347466_epub_043_r1.jpg"
+            src="/static/images/Benj_9780307347466_epub_043_r1.jpg"
             width="298"
           />
         </div>
@@ -974,7 +966,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="106"
-          src="/images/Benj_9780307347466_epub_044_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_044_r1.jpg"
           width="298"
         />
       </div>
@@ -987,7 +979,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_045_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_045_r1.jpg"
           width="298"
         />
       </div>
@@ -1000,7 +992,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="206"
-          src="/images/Benj_9780307347466_epub_046_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_046_r1.jpg"
           width="528"
         />
       </div>
@@ -1109,7 +1101,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_047_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_047_r1.jpg"
           width="192"
         />
       </div>
@@ -1123,7 +1115,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_048_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_048_r1.jpg"
           width="493"
         />
       </div>
@@ -1135,7 +1127,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_049_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_049_r1.jpg"
           width="143"
         />
       </div>
@@ -1148,7 +1140,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_050_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_050_r1.jpg"
           width="340"
         />
       </div>
@@ -1157,7 +1149,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_051_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_051_r1.jpg"
           width="54"
         />
       </div>
@@ -1170,7 +1162,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_052_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_052_r1.jpg"
           width="338"
         />
       </div>
@@ -1183,7 +1175,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_053_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_053_r1.jpg"
           width="311"
         />
       </div>
@@ -1195,7 +1187,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_054_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_054_r1.jpg"
           width="496"
         />
       </div>
@@ -1204,7 +1196,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_055_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_055_r1.jpg"
           width="327"
         />
       </div>
@@ -1232,7 +1224,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_056_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_056_r1.jpg"
           width="456"
         />
       </div>
@@ -1273,7 +1265,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_057_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_057_r1.jpg"
           width="154"
         />
       </div>
@@ -1290,7 +1282,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="35"
-          src="/images/Benj_9780307347466_epub_058_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_058_r1.jpg"
           width="351"
         />
       </div>
@@ -1299,7 +1291,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_059_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_059_r1.jpg"
           width="154"
         />
       </div>
@@ -1312,7 +1304,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_060_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_060_r1.jpg"
           width="351"
         />
       </div>
@@ -1321,7 +1313,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_061_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_061_r1.jpg"
           width="154"
         />
       </div>
@@ -1332,7 +1324,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="31"
-          src="/images/Benj_9780307347466_epub_062_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_062_r1.jpg"
           width="495"
         />
       </div>
@@ -1344,7 +1336,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="46"
-          src="/images/Benj_9780307347466_epub_063_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_063_r1.jpg"
           width="164"
         />
       </div>
@@ -1357,7 +1349,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="32"
-          src="/images/Benj_9780307347466_epub_064_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_064_r1.jpg"
           width="359"
         />
       </div>
@@ -1369,7 +1361,7 @@ const TwoCh = () => {
         <img
           alt=""
           height="306"
-          src="/images/Benj_9780307347466_epub_065_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_065_r1.jpg"
           width="525"
         />
       </div>

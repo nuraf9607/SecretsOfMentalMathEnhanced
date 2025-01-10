@@ -144,7 +144,7 @@ const OneCh = () => {
         <img
           alt=""
           height="70"
-          src="/images/Benj_9780307347466_epub_001_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_001_r1.jpg"
           width="32"
         />
       </div>
@@ -156,7 +156,7 @@ const OneCh = () => {
         <img
           alt=""
           height="71"
-          src="/images/Benj_9780307347466_epub_002_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_002_r1.jpg"
           width="32"
         />
       </div>
@@ -181,7 +181,7 @@ const OneCh = () => {
         <img
           alt=""
           height="71"
-          src="/images/Benj_9780307347466_epub_003_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_003_r1.jpg"
           width="41"
         />
       </div>
@@ -279,7 +279,7 @@ const OneCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_004_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_004_r1.jpg"
           width="120"
         />
       </div>
@@ -291,7 +291,7 @@ const OneCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_005_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_005_r1.jpg"
           width="120"
         />
       </div>
@@ -309,7 +309,7 @@ const OneCh = () => {
         <img
           alt=""
           height="127"
-          src="/images/Benj_9780307347466_epub_006_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_006_r1.jpg"
           width="120"
         />
       </div>
@@ -379,7 +379,7 @@ const OneCh = () => {
         <img
           alt=""
           height="43"
-          src="/images/Benj_9780307347466_epub_007_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_007_r1.jpg"
           width="58"
         />
       </div>
@@ -392,7 +392,7 @@ const OneCh = () => {
         <img
           alt=""
           height="67"
-          src="/images/Benj_9780307347466_epub_008_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_008_r1.jpg"
           width="58"
         />
       </div>
@@ -409,7 +409,7 @@ const OneCh = () => {
         <img
           alt=""
           height="67"
-          src="/images/Benj_9780307347466_epub_009_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_009_r1.jpg"
           width="48"
         />
       </div>
@@ -429,7 +429,7 @@ const OneCh = () => {
         <img
           alt=""
           height="272"
-          src="/images/Benj_9780307347466_epub_010_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_010_r1.jpg"
           width="54"
         />
       </div>
@@ -496,7 +496,7 @@ const OneCh = () => {
         <img
           alt=""
           height="37"
-          src="/images/Benj_9780307347466_epub_011_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_011_r1.jpg"
           width="526"
         />
       </div>
@@ -516,7 +516,7 @@ const OneCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_012_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_012_r1.jpg"
           width="248"
         />
       </div>
@@ -525,7 +525,7 @@ const OneCh = () => {
         <img
           alt=""
           height="128"
-          src="/images/Benj_9780307347466_epub_013_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_013_r1.jpg"
           width="260"
         />
       </div>
@@ -595,7 +595,6 @@ const OneCh = () => {
           </div>
           <p className="materialReference">
             For Reference: Click <a href="#elevenMultiply">here</a>{" "}
-           
           </p>
         </div>
         <div className="squarePracticeContainer">
@@ -626,7 +625,8 @@ const OneCh = () => {
           </div>
         </div>
         <p className="materialReference">
-        For Reference: Click <a href="#squareSection">here</a></p>
+          For Reference: Click <a href="#squareSection">here</a>
+        </p>
       </div>
     </div>
   );

@@ -58,7 +58,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="25"
-          src="/images/Benj_9780307347466_epub_514_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_514_r1.jpg"
           width="18"
         />
         . In fact, p is an irrational number (one whose digits continue
@@ -1089,7 +1089,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="44"
-          src="/images/Benj_9780307347466_epub_310_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_310_r1.jpg"
           width="511"
         />
       </div>
@@ -1112,7 +1112,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="44"
-          src="/images/Benj_9780307347466_epub_311_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_311_r1.jpg"
           width="394"
         />
       </div>
@@ -1123,7 +1123,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_312_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_312_r1.jpg"
           width="426"
         />
       </div>
@@ -1132,7 +1132,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="127"
-          src="/images/Benj_9780307347466_epub_313_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_313_r1.jpg"
           width="520"
         />
       </div>
@@ -1158,14 +1158,14 @@ const SevenCh = () => {
           <strong>A Piece of Pi for Alexander Craig Aitken</strong>
         </p>
         <p className="textbox">
-          <span className="dropcaps">P</span>erhaps one of the most impressive feats
-          of mental calculation was performed by a professor of mathematics at
-          the University of Edinburgh, Alexander Craig Aitken (1895–1967), who
-          not only learned the value of p to 1,000 places but, when asked to
-          demonstrate his amazing memory during a lecture, promptly rattled off
-          the first 250 digits of p. He was then challenged to skip ahead and
-          begin at the 551st digit and continue for another 150 places. This he
-          did successfully without a single error.
+          <span className="dropcaps">P</span>erhaps one of the most impressive
+          feats of mental calculation was performed by a professor of
+          mathematics at the University of Edinburgh, Alexander Craig Aitken
+          (1895–1967), who not only learned the value of p to 1,000 places but,
+          when asked to demonstrate his amazing memory during a lecture,
+          promptly rattled off the first 250 digits of p. He was then challenged
+          to skip ahead and begin at the 551st digit and continue for another
+          150 places. This he did successfully without a single error.
         </p>
         <p className="textbox1">
           How did he do it? Aitken explained to his audience that “the secret,
@@ -1201,7 +1201,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="133"
-          src="/images/Benj_9780307347466_epub_314_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_314_r1.jpg"
           width="504"
         />
       </div>
@@ -1212,12 +1212,12 @@ const SevenCh = () => {
         </a>
         , to square 342 you first multiply 300 × 384, for 115,200, then add 42
         <sup className="frac">2</sup>. But by the time you’ve computed 42
-        <sup className="frac">2</sup> = 1,764, you may have forgotten the earlier
-        number, 115,200. Here’s where our memory system comes to the rescue. To
-        store the number 115,200, put 200 on your hand by raising two fingers,
-        and convert 115 into a word like <em>title</em>. (By the way, I do not
-        consider storing the 200 on fingers to be cheating. After all, what are
-        hands for if not for holding on to digits!) Repeat the word{" "}
+        <sup className="frac">2</sup> = 1,764, you may have forgotten the
+        earlier number, 115,200. Here’s where our memory system comes to the
+        rescue. To store the number 115,200, put 200 on your hand by raising two
+        fingers, and convert 115 into a word like <em>title</em>. (By the way, I
+        do not consider storing the 200 on fingers to be cheating. After all,
+        what are hands for if not for holding on to digits!) Repeat the word{" "}
         <em>title</em> to yourself once or twice. That’s easier to remember than
         115,200, especially after you start calculating 42
         <sup className="frac">2</sup>. Once you’ve arrived at 1,764, you can add
@@ -1228,7 +1228,7 @@ const SevenCh = () => {
         <img
           alt=""
           height="132"
-          src="/images/Benj_9780307347466_epub_315_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_315_r1.jpg"
           width="482"
         />
       </div>

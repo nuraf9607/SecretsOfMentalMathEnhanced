@@ -10,8 +10,8 @@ const SixCh = () => {
         Pencil-and-Paper Math
       </h1>
       <p className="nonindent">
-        <span className="big">I</span>n the Introduction to this book I discussed
-        the many benefits you will get from being able to do mental
+        <span className="big">I</span>n the Introduction to this book I
+        discussed the many benefits you will get from being able to do mental
         calculations. In this chapter I present some methods for speeding up
         pencil-and-paper calculations as well. Since calculators have replaced
         much of the need for pencil-and-paper arithmetic in most practical
@@ -51,7 +51,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_257_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_257_r1.jpg"
           width="59"
         />
       </div>
@@ -102,7 +102,7 @@ const SixCh = () => {
         <img
           alt=""
           height="343"
-          src="/images/Benj_9780307347466_epub_258_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_258_r1.jpg"
           width="384"
         />
       </div>
@@ -149,7 +149,7 @@ const SixCh = () => {
         <img
           alt=""
           height="152"
-          src="/images/Benj_9780307347466_epub_259_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_259_r1.jpg"
           width="200"
         />
       </div>
@@ -161,7 +161,7 @@ const SixCh = () => {
         <img
           alt=""
           height="234"
-          src="/images/Benj_9780307347466_epub_260_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_260_r1.jpg"
           width="274"
         />
       </div>
@@ -183,7 +183,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/images/Benj_9780307347466_epub_261_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_261_r1.jpg"
           width="200"
         />
       </div>
@@ -207,8 +207,8 @@ const SixCh = () => {
       </p>
       <p className="extract">
         <strong>Step 2</strong>. Subtract the square of the number in step 1,
-        then bring down two more digits. Since 4<sup className="frac">2</sup> = 16,
-        we subtract 19 − 16 = 3. We bring down two 0s, leaving 300 as the
+        then bring down two more digits. Since 4<sup className="frac">2</sup> =
+        16, we subtract 19 − 16 = 3. We bring down two 0s, leaving 300 as the
         current remainder.
       </p>
       <p className="extract">
@@ -221,9 +221,10 @@ const SixCh = () => {
         <strong>Step 4</strong>. The next digit of the quotient will be the
         largest number that can be put in both blanks so that the resulting
         multiplication problem is less than or equal to the current remainder.
-        In this case the number is 3, because 8<span className="underline">3</span>{" "}
-        × <span className="underline">3</span> = 249, whereas 84 × 4 = 336, which is
-        too high. Write this number above the second digit of the next two
+        In this case the number is 3, because 8
+        <span className="underline">3</span> ×{" "}
+        <span className="underline">3</span> = 249, whereas 84 × 4 = 336, which
+        is too high. Write this number above the second digit of the next two
         numbers; in this case the 3 would go above the second 0. We now have a
         quotient of 4.3.
       </p>
@@ -237,10 +238,10 @@ const SixCh = () => {
         To get the third digit of the square root, double the quotient, again
         ignoring the decimal point (i.e., 43 × 2 = 86). Place 86_ x_ to the left
         of 5100. The number 5 gives us 86<span className="underline">5</span> ×{" "}
-        <span className="underline">5</span> = 4325, the largest product below 5100.
-        The 5 goes above the next two numbers, in this case two more 0s. We now
-        have a quotient of 4.35. For even more digits, repeat the process as
-        we’ve done in the example.
+        <span className="underline">5</span> = 4325, the largest product below
+        5100. The 5 goes above the next two numbers, in this case two more 0s.
+        We now have a quotient of 4.35. For even more digits, repeat the process
+        as we’ve done in the example.
       </p>
       <p className="indent">
         Here’s an example of an odd number of digits before the decimal point:
@@ -249,7 +250,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/images/Benj_9780307347466_epub_262_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_262_r1.jpg"
           width="186"
         />
       </div>
@@ -263,7 +264,7 @@ const SixCh = () => {
         <img
           alt=""
           height="237"
-          src="/images/Benj_9780307347466_epub_263_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_263_r1.jpg"
           width="212"
         />
       </div>
@@ -276,7 +277,7 @@ const SixCh = () => {
         <img
           alt=""
           height="151"
-          src="/images/Benj_9780307347466_epub_264_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_264_r1.jpg"
           width="126"
         />
       </div>
@@ -297,46 +298,46 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_265_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_265_r1.jpg"
           width="58"
         />
       </div>
       <p className="extract">
         <strong>Step 1</strong>. First, multiply 4 × 7 to yield 2
-        <span className="underline">8</span>, write down the 8, and mentally carry
-        the 2 to the next computation, below.
+        <span className="underline">8</span>, write down the 8, and mentally
+        carry the 2 to the next computation, below.
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_266_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_266_r1.jpg"
           width="92"
         />
       </div>
       <p className="extract">
         <strong>Step 2</strong>. Following the diagram, add 2 + (4 × 4) + (3 ×
-        7) = 3<span className="underline">9</span>, write down the 9, and carry the
-        3 to the final computation, below.
+        7) = 3<span className="underline">9</span>, write down the 9, and carry
+        the 3 to the final computation, below.
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_267_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_267_r1.jpg"
           width="92"
         />
       </div>
       <p className="extract">
         <strong>Step 3</strong>. End by adding 3 + (3 × 4) ={" "}
-        <span className="underline">15</span> and writing down 15 to arrive at your
-        final answer.
+        <span className="underline">15</span> and writing down 15 to arrive at
+        your final answer.
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_268_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_268_r1.jpg"
           width="92"
         />
       </div>
@@ -352,7 +353,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_269_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_269_r1.jpg"
           width="56"
         />
       </div>
@@ -364,7 +365,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_270_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_270_r1.jpg"
           width="83"
         />
       </div>
@@ -376,7 +377,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_271_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_271_r1.jpg"
           width="83"
         />
       </div>
@@ -387,7 +388,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_272_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_272_r1.jpg"
           width="83"
         />
       </div>
@@ -402,7 +403,7 @@ const SixCh = () => {
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_273_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_273_r1.jpg"
           width="83"
         />
       </div>
@@ -414,7 +415,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_274_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_274_r1.jpg"
           width="130"
         />
       </div>
@@ -427,7 +428,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_275_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_275_r1.jpg"
           width="130"
         />
       </div>
@@ -439,7 +440,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_276_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_276_r1.jpg"
           width="130"
         />
       </div>
@@ -451,18 +452,19 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_277_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_277_r1.jpg"
           width="130"
         />
       </div>
       <p className="extract">
-        <strong>Step 5</strong>. 8 + (8 × 7) = <span className="underline">64</span>
+        <strong>Step 5</strong>. 8 + (8 × 7) ={" "}
+        <span className="underline">64</span>
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_278_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_278_r1.jpg"
           width="130"
         />
       </div>
@@ -487,7 +489,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_279_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_279_r1.jpg"
           width="153"
         />
       </div>
@@ -503,7 +505,7 @@ const SixCh = () => {
         <img
           alt=""
           height="74"
-          src="/images/Benj_9780307347466_epub_280_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_280_r1.jpg"
           width="64"
         />
       </div>
@@ -514,7 +516,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_281_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_281_r1.jpg"
           width="128"
         />
       </div>
@@ -526,7 +528,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_282_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_282_r1.jpg"
           width="128"
         />
       </div>
@@ -538,7 +540,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_283_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_283_r1.jpg"
           width="128"
         />
       </div>
@@ -550,19 +552,20 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_284_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_284_r1.jpg"
           width="128"
         />
       </div>
       <p className="indent">
         <a id="page143"></a>
-        <strong>Step 5</strong>. 3 + (0 × 8) = <span className="underline">3</span>
+        <strong>Step 5</strong>. 3 + (0 × 8) ={" "}
+        <span className="underline">3</span>
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_285_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_285_r1.jpg"
           width="129"
         />
       </div>
@@ -583,7 +586,7 @@ const SixCh = () => {
         <img
           alt=""
           height="72"
-          src="/images/Benj_9780307347466_epub_286_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_286_r1.jpg"
           width="136"
         />
       </div>
@@ -594,7 +597,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_287_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_287_r1.jpg"
           width="219"
         />
       </div>
@@ -606,7 +609,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_288_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_288_r1.jpg"
           width="219"
         />
       </div>
@@ -618,7 +621,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_289_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_289_r1.jpg"
           width="219"
         />
       </div>
@@ -631,7 +634,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_290_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_290_r1.jpg"
           width="219"
         />
       </div>
@@ -643,7 +646,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_291_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_291_r1.jpg"
           width="219"
         />
       </div>
@@ -655,7 +658,7 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_292_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_292_r1.jpg"
           width="219"
         />
       </div>
@@ -667,7 +670,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_293_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_293_r1.jpg"
           width="219"
         />
       </div>
@@ -679,23 +682,25 @@ const SixCh = () => {
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_294_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_294_r1.jpg"
           width="219"
         />
       </div>
       <p className="extract">
-        <strong>Step 9</strong>. (5 × 4) + 2 = <span className="underline">22</span>
+        <strong>Step 9</strong>. (5 × 4) + 2 ={" "}
+        <span className="underline">22</span>
       </p>
       <div className="dis_img">
         <img
           alt=""
           height="68"
-          src="/images/Benj_9780307347466_epub_295_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_295_r1.jpg"
           width="219"
         />
       </div>
       <p className="indent">
-        <a id="page145"></a>Answer: <span className="underline">2,231,184,483</span>
+        <a id="page145"></a>Answer:{" "}
+        <span className="underline">2,231,184,483</span>
       </p>
       <p className="indent">
         You can check your answer by using the mod sums method.
@@ -704,7 +709,7 @@ const SixCh = () => {
         <img
           alt=""
           height="178"
-          src="/images/Benj_9780307347466_epub_296_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_296_r1.jpg"
           width="219"
         />
       </div>
@@ -724,7 +729,7 @@ const SixCh = () => {
         <img
           alt=""
           height="69"
-          src="/images/Benj_9780307347466_epub_297_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_297_r1.jpg"
           width="502"
         />
       </div>
@@ -733,7 +738,7 @@ const SixCh = () => {
         <img
           alt=""
           height="123"
-          src="/images/Benj_9780307347466_epub_298_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_298_r1.jpg"
           width="388"
         />
       </div>
@@ -785,7 +790,7 @@ const SixCh = () => {
         <img
           alt=""
           height="179"
-          src="/images/Benj_9780307347466_epub_299_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_299_r1.jpg"
           width="171"
         />
       </div>
@@ -813,7 +818,7 @@ const SixCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_300_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_300_r1.jpg"
           width="144"
         />
       </div>
@@ -874,7 +879,8 @@ const SixCh = () => {
             <em>Step 8</em>
           </strong>
           .&#160;&#160;&#160; 16 + (6 × 6) + (2 × 1) + (1 × 6) + (5 × 5) + (2 ×
-          8) + (5 × 4) + (5 × 2) + (7 × 9) = 19<span className="underline">4</span>
+          8) + (5 × 4) + (5 × 2) + (7 × 9) = 19
+          <span className="underline">4</span>
         </p>
         <p className="bl_hanginga">
           <strong>
@@ -963,7 +969,7 @@ const SixCh = () => {
         <img
           alt=""
           height="72"
-          src="/images/Benj_9780307347466_epub_301_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_301_r1.jpg"
           width="315"
         />
       </div>
@@ -974,7 +980,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/images/Benj_9780307347466_epub_302_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_302_r1.jpg"
           width="287"
         />
       </div>
@@ -987,7 +993,7 @@ const SixCh = () => {
         <img
           alt=""
           height="182"
-          src="/images/Benj_9780307347466_epub_303_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_303_r1.jpg"
           width="79"
         />
       </div>
@@ -996,7 +1002,7 @@ const SixCh = () => {
         <img
           alt=""
           height="155"
-          src="/images/Benj_9780307347466_epub_304_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_304_r1.jpg"
           width="105"
         />
         <a id="page150"></a>
@@ -1005,7 +1011,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/images/Benj_9780307347466_epub_305_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_305_r1.jpg"
           width="298"
         />
       </div>
@@ -1017,7 +1023,7 @@ const SixCh = () => {
         <img
           alt=""
           height="45"
-          src="/images/Benj_9780307347466_epub_306_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_306_r1.jpg"
           width="525"
         />
       </div>
@@ -1025,7 +1031,7 @@ const SixCh = () => {
         <img
           alt=""
           height="25"
-          src="/images/Benj_9780307347466_epub_307_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_307_r1.jpg"
           width="352"
         />
       </div>
@@ -1037,7 +1043,7 @@ const SixCh = () => {
         <img
           alt=""
           height="82"
-          src="/images/Benj_9780307347466_epub_308_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_308_r1.jpg"
           width="410"
         />
       </div>
@@ -1051,7 +1057,7 @@ const SixCh = () => {
         <img
           alt=""
           height="146"
-          src="/images/Benj_9780307347466_epub_309_r1.jpg"
+          src="/static/images/Benj_9780307347466_epub_309_r1.jpg"
           width="399"
         />
       </div>
