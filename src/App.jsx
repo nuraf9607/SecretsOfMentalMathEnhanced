@@ -116,6 +116,7 @@ function App() {
       <Outlet></Outlet>
 
       <footer className="mt-24 pb-2 border-t-2">
+        <img src="/Static/images/gojo-shocked.png" alt="" />
         <p>
           <span className="font-bold">Disclaimer:</span>{" "}
           <span className="text-sm">
