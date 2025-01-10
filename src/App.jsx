@@ -27,7 +27,7 @@ function App() {
           ""
         ) : (
           <nav
-            className="block sm:hidden pt-7 mt-5 "
+            className="block sm:hidden pt-7 mt-5 "d
             style={{ borderTop: "1px solid #ccc" }}
           >
             <div
