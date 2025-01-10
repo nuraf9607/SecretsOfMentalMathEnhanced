@@ -8,5 +8,6 @@ export const fetchMenulist = function()  {
     })
     .catch((error) => {
       console.error("Error:", error);
+      return [];
     });
 };
