@@ -64,12 +64,7 @@
       "name": "Chapter ∞",
       "description": "Epilogue by Michael Shermer: How Math Helps Us Think About Weird Things",
       "link": "/chapterEpilogue"
-    },
-    {
-      "id": 12,
-      "name": "Experimental",
-      "description": "Experimenting Function which are unlreleated to the main website",
-      "link": "/experimentDev"
     }
+   
   ]
   

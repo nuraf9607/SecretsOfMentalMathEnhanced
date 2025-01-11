@@ -1,8 +1,6 @@
-import React from "react";
-
 const FiveCh = () => {
   return (
-    <div>
+    <body>
       <h1 className="chapter" id="c05">
         <a id="page80"></a>Chapter 4
       </h1>
@@ -1378,7 +1376,7 @@ const FiveCh = () => {
           />
         </div>
       </div>
-    </div>
+    </body>
   );
 };
 
